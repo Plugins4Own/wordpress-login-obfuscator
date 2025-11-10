@@ -10,6 +10,7 @@ This **WordPress plugin** adds an extra layer of security to your site by settin
 
 - Lightweight and easy to use – just activate and protect your login page.
 
+
 ### Installation:
 
 - Upload the plugin files to the /wp-content/plugins/ directory or install it via the WordPress plugin manager or git clone this repository
@@ -21,3 +22,6 @@ This **WordPress plugin** adds an extra layer of security to your site by settin
 I personally found this plugin incredibly useful when I was facing a significant number of attacks on my WordPress site. By triggering a 403 response on failed login attempts, it discouraged attackers from continuing their attempts, thesame header after correct login can eliminate some bots. It’s a simple, effective solution to reduce the risk of unauthorized access.
 
 Hope it helps you as much as it helped me.
+
+## Project Home Page
+> [Login Obfuscator homepage - on plugins4.own.pl](https://plugins4.own.pl/wordpress/login-obfuscator/)
